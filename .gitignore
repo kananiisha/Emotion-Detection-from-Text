@@ -1,0 +1,11 @@
+﻿.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+model.pkl
+vectorizer.pkl
+.DS_Store
+.ipynb_checkpoints/
