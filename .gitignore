@@ -1,11 +1,19 @@
-﻿.venv
+﻿# Model files (auto-generated on first run)
+model.pkl
+vectorizer.pkl
+val_accuracy.txt
+
+# Virtual environment
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-*.sqlite3
-*.db
-model.pkl
-vectorizer.pkl
-.DS_Store
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
