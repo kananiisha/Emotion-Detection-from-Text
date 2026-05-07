@@ -4,9 +4,7 @@ A dark-themed Streamlit app for detecting the emotion of user-entered text. The 
 
 ## 🌐 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-price-predictor-cbcpj8vapmz7c6lfyen3fx.streamlit.app/)
-
-👉 **[https://car-price-predictor-cbcpj8vapmz7c6lfyen3fx.streamlit.app/](https://car-price-predictor-cbcpj8vapmz7c6lfyen3fx.streamlit.app/)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emotion-detection-from-text-6obwvzmfujmjgskstwp6tg.streamlit.app/)
 
 ## 🖥️ App Preview
 
@@ -19,7 +17,7 @@ A dark-themed Streamlit app for detecting the emotion of user-entered text. The 
 | File | Purpose |
 |---|---|
 | `app.py` | Streamlit interface and emotion prediction logic |
-| `main.ipynb` | Original notebook for model training and experimentation |
+| `emotion_detection_pipeline.ipynb` | Notebook for model training and experimentation |
 | `train.txt` | Training dataset |
 | `val.txt` | Validation dataset (used to measure accuracy after training) |
 | `test.txt` | Test dataset |
