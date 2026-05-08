@@ -1,10 +1,2 @@
 timestamp,text,emotion,confidence
-2026-05-08 15:43:29,I feel so happy today!,joy,98.7
-2026-05-08 15:43:50,This is incredibly frustrating.,joy,44.7
-2026-05-08 15:45:11,"Nothing seems to matter anymore, I just feel hollow inside.",sadness,41.7
-2026-05-08 15:45:44,This is absolutely ridiculous and I'm furious.,anger,94.7
-2026-05-08 15:46:22,I'm terrified of what might happen if I fail this exam.,fear,96.8
-2026-05-08 15:46:52,You make my heart feel warm and full every single day.,joy,73.4
-2026-05-08 15:47:38,My heart is filled with unconditional love and affection for you.,sadness,58.3
-2026-05-08 15:48:41,"I am completely shocked and amazed, I never expected this at all.",surprise,98.8
-2026-05-08 15:48:59,I feel so loving and passionate and nostalgic about the people I care about.,love,99.7
+2026-05-08 15:57:18,I feel so shocked and amazed I never expected this to happen.,surprise,99.4
